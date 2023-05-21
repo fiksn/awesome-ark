@@ -9,4 +9,5 @@ ARK is a new bitcoin layer2 protocol proposed by [Burak Keçeli](https://twitter
 
 * [Arkpill.me](https://www.arkpill.me)
 * [TBDXXX specs](https://github.com/tbdxxx/specs)
+* [ARK Network Community Telegram](https://t.me/ark_network_community)
 * [ARK explained](./explained.md)

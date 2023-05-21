@@ -33,3 +33,4 @@ Now we learned that people come to this amusement park only for the side-effects
 
 The ARK tradeoff is basically that ASPs will do lots of bitcoin transactions (with some upper bound independent of usage), but all users can transact without the need to hit the blockchain (unless there is some cheating). The only time they need
 to touch the bitcoin blockchain is to acquire vTXOs but even that will be a batch transaction with multiple users (which like a coinjoin ensures anonymity). The other way is to acquire chips (vTXO inputs to your newly created vTXO) on the secondary market (possibly even directly for fiat).
+TODO: or by lifting an UTXO in a trustless way?
