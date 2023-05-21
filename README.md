@@ -3,7 +3,7 @@ A curated list of ARK resources
 
 ## What is it
 
-ARK (previously known as TBDXXX0 is a new bitcoin layer2 protocol proposed by [Burak Keçeli](https://twitter.com/brqgoo).
+ARK (previously known as TBDXXX placeholder) is a new bitcoin layer2 protocol proposed by [Burak Keçeli](https://twitter.com/brqgoo).
 
 The non-interactive version requires covenants (which can be achieved using [CTV](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) or [APO](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)).
 
