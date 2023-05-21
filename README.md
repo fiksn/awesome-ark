@@ -15,4 +15,5 @@ directly off-chain (and off-channel).
 * [Arkpill.me](https://www.arkpill.me)
 * [TBDXXX specs](https://github.com/tbdxxx/specs)
 * [ARK Network Community Telegram](https://t.me/ark_network_community)
+* [ARK video from Bitcoin Miami 2023](https://bitcointv.com/w/pVk3bPfKZ7YqDzsNZjz9tf?start=4h9m28s)
 * [ARK explained](./explained.md)
