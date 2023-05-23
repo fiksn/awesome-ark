@@ -18,5 +18,6 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [TBDXXX specs](https://github.com/tbdxxx/specs)
 * [ARK Network Community Telegram](https://t.me/ark_network_community)
 * [ARK video from Bitcoin Miami 2023](https://bitcointv.com/w/pVk3bPfKZ7YqDzsNZjz9tf?start=4h9m28s)
-* [[bitcoin-dev] Ark: An Alternative Privacy-preserving Second Layer Solution)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html)
+* [ARK presentation from Bitcoin Miami 2023](https://docs.google.com/presentation/d/1xKIJt4CnUCFfxhIwDj_kW0Ecr0NcvN5bZ4SQexGJfmk/edit?usp=sharing)
+* [[bitcoin-dev] Ark: An Alternative Privacy-preserving Second Layer Solution](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html)
 * [ARK explained](./explained.md)
