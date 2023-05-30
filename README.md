@@ -22,6 +22,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [[bitcoin-dev] Ark: An Alternative Privacy-preserving Second Layer Solution](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html)
 * [Introducing Ark Blog Post](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272)
 * [Video podcast with Q&A](https://www.youtube.com/watch?v=iQ7TLBhh9r4)
+* [Stephan Livera Podcast SLP482 Burak – Ark: A new L2 protocol for Bitcoin](https://stephanlivera.com/episode/482/)
 * [ARK explained](./explained.md)
 
 ## Related
