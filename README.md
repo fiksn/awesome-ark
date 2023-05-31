@@ -15,7 +15,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 ## List
 
 * [Arkpill.me](https://www.arkpill.me)
-* [TBDXXX specs](https://github.com/tbdxxx/specs)
+* [Ark specs](https://github.com/ark-network/specs)
 * [ARK Network Community Telegram](https://t.me/ark_network_community)
 * [ARK video from Bitcoin Miami 2023](https://bitcointv.com/w/pVk3bPfKZ7YqDzsNZjz9tf?start=4h9m28s)
 * [ARK presentation from Bitcoin Miami 2023](https://docs.google.com/presentation/d/1xKIJt4CnUCFfxhIwDj_kW0Ecr0NcvN5bZ4SQexGJfmk/edit?usp=sharing)
