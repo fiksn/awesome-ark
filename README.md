@@ -29,6 +29,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 
 * [Stephan Livera Podcast SLP482 Burak – Ark: A new L2 protocol for Bitcoin](https://stephanlivera.com/episode/482/)
 * [Bitcoin Takeover Podcast S14 E1: Burak Keceli on Ark & Bitcoin 2nd Layers](https://www.youtube.com/watch?v=iQ7TLBhh9r4)
+* [The Kevin Rooke Show E109: Burak on Building Ark, Scaling Bitcoin, and Improving Privacy](https://www.stacksats.how/podcasts/e109-burak-on-building-ark-scaling-bitcoin-and-improving-privacy)
 
 ## Related
 
