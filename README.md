@@ -5,7 +5,9 @@ A curated list of ARK resources
 
 ARK (previously known as TBDXXX placeholder) is a new bitcoin layer2 protocol proposed by [Burak Keçeli](https://twitter.com/brqgoo).
 
-The non-interactive version requires covenants (which can be achieved using [CTV](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) or [APO](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)).
+To avoid confusion: "token" used here is BTC not an altcoin with the name [ARK](https://ark.io). If you are looking for the list of resources for that one it is available in a different [repo](https://github.com/Guppster/awesome-ark) and beside the common name the two things are totally unrelated.
+
+The non-interactive ARK version requires covenants (which can be achieved using [CTV](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) or [APO](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)).
 
 However using n-of-n multisig you can have a simplified version requiring all participants to be online. Which means ARK can be rolled out on bitcoin immediately.
 
@@ -15,7 +17,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 ## List
 
 * [Arkpill.me](https://www.arkpill.me)
-* [Ark specs](https://github.com/ark-network/specs)
+* [BOATs](https://github.com/ark-network/boats) - BOAT stands for Basis of Ark Technology and is basically a network specification (similar to [BOLTs](https://github.com/lightning/bolts) on lightning)
 * [ARK Network Community Telegram](https://t.me/ark_network_community)
 * [ARK video from Bitcoin Miami 2023](https://bitcointv.com/w/pVk3bPfKZ7YqDzsNZjz9tf?start=4h9m28s)
 * [ARK presentation from Bitcoin Miami 2023](https://docs.google.com/presentation/d/1xKIJt4CnUCFfxhIwDj_kW0Ecr0NcvN5bZ4SQexGJfmk/edit?usp=sharing)
@@ -25,6 +27,11 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [RubenSomsen's Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 * [Ark Whiteboard Masterclass with Burak & Robin](https://youtu.be/EocWax43QgQ)
 * [ARK explained](./explained.md)
+
+## Twitter threads
+
+* [Yuya's twitter thread with diagrams](https://twitter.com/ogw_yuya/status/1664497186703568896)
+* [Alex Lewin's twitter thread with diagrams and explanations](https://twitter.com/_AlexLewin/status/1667185028768452611)
 
 ## Podcasts
 
