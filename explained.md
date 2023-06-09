@@ -36,7 +36,19 @@ So eventhough there are a lot of transactions it is still O(1). According to [St
 The only time users need to utilize the bitcoin blockchain is to acquire vTXOs but even that will be a batch transaction with multiple users (which like a coinjoin ensures anonymity). The other way is to acquire chips (vTXO inputs to your newly created vTXO) on the secondary market (possibly even directly for fiat).
 TODO: or by lifting an UTXO in a trustless way? I suppose lifting is the pool transaction already.
 
-## Connectors
+## FAQ
+### Connectors
 
 This is nicely explained already in https://www.arkpill.me/deep-dive. What I did not understand however was if you had a hypothetical `OP_CHECKTXIDFROMUTXOSETVERIFY` it would work with any transaction ID. The "connector hack" works just
 for special transactions. The transactions are special in a sense that they contain an additional output that another transaction can use as input. It is just 450 sats so it is above dust limit. I suppose anyone could spend that but it does not make sense since the reward is minimal in comparison to transaction fee to actually sweep the funds. By commiting to this input your tx can be put on-chain only if the connected one already exists (and thus form the "txlock").
+
+### DoS issue
+
+How does the ASP make sure a user doesn't DoS it? In a sense that user A doesn't transfer his vTXO to A' and then to A'' and so on.
+ASP always needs to "cough up" a new ("real") UTXO for a transfer to happen so 1 BTC vTXO could soon mean a lot of BTC locked on the ASP side.
+
+The missing point I did not understand was that despite designed to save blockspace transfers on Ark are not totally free from an end-user perspective. There is always a cost attached and it could even be dynamically adjusted depending on how much capital ASP has to spare.
+So it's still asymmetrical (ASP uses more bitcoin than user), but at least user can't execute the attack free of charge. This brings
+the next question how does the user refresh their vTXO before expiration then. Or are his sats dimishing this way despite doing transactions. 
+The trick here is that from the vTXO (that is not published) it is not evident
+how old it is. But ASP of course knows the age since he had to construct the covenants. So it is trivial for the ASP to offer a discount or more likely even free transfer some short period before old vTXO expires. In that time window you either refresh the vTXO by transfering it to yourself or to somebody else (and those two are not distinguishable). But that is all an implementation detail of ASP (not a problem that needs to be dealt on Ark protocol).
