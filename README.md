@@ -26,6 +26,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [Rijndael's write up on how Ark works](https://primal.net/thread/note1cuv7mg7z0w7jvwp9mlsu0zt6acnw54avaj5r5zgdkxlpjnqp3g0s5c0yht)
 * [RubenSomsen's Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 * [Ark Whiteboard Masterclass with Burak & Robin](https://youtu.be/EocWax43QgQ)
+* [Bitcoin magazine: Introducing Ark](https://bitcoinmagazine.com/technical/how-ark-plans-to-scale-private-bitcoin-payments)
 * [ARK explained](./explained.md)
 
 ## Twitter threads
