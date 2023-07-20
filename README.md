@@ -27,6 +27,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [RubenSomsen's Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 * [Ark Whiteboard Masterclass with Burak & Robin](https://youtu.be/EocWax43QgQ)
 * [Bitcoin magazine: Introducing Ark](https://bitcoinmagazine.com/technical/how-ark-plans-to-scale-private-bitcoin-payments)
+* [BitGo blog: Will Burak’s Ark Solve Bitcoin Scaling?](https://blog.bitgo.com/will-buraks-ark-solve-bitcoin-scaling-f31e65535c3f)
 * [ARK explained](./explained.md)
 
 ## Twitter threads
