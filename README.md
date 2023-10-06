@@ -28,7 +28,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [Ark Whiteboard Masterclass with Burak & Robin](https://youtu.be/EocWax43QgQ)
 * [Bitcoin magazine: Introducing Ark](https://bitcoinmagazine.com/technical/how-ark-plans-to-scale-private-bitcoin-payments)
 * [BitGo blog: Will Burak’s Ark Solve Bitcoin Scaling?](https://blog.bitgo.com/will-buraks-ark-solve-bitcoin-scaling-f31e65535c3f)
-* [pippellia's Ark Explained - Bitcoin Layer 2 Protocol](https://rumble.com/v3nf9vd-ark-explained-bitcoin-layer-2-protocol.html)
+* [pippellia's Video Ark Explained - Bitcoin Layer 2 Protocol](https://rumble.com/v3nf9vd-ark-explained-bitcoin-layer-2-protocol.html)
 * [Bitcoin Ljubljana September 2023 Meetup Notes - Ark presentation](https://www.bitcoin-ljubljana.si/meetup-notes/202309.html) [[PDF]](https://github.com/bitcoin-ljubljana/meetup/blob/main/presentations/Ark.pdf)
 * [My silly ARK explaination with analogies](./explained.md)
 
