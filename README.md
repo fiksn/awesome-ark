@@ -18,6 +18,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 
 * [Arkpill.me](https://www.arkpill.me)
 * [Arkdev.info](https://arkdev.info)
+* [ARK network github](https://github.com/ark-network) - all the Ark code on GitHub
 * [BOATs](https://github.com/ark-network/boats) - BOAT stands for Basis of Ark Technology and is basically a network specification (similar to [BOLTs](https://github.com/lightning/bolts) on lightning)
 * [ARK Network Community Telegram](https://t.me/ark_network_community)
 * [ARK video from Bitcoin Miami 2023](https://bitcointv.com/w/pVk3bPfKZ7YqDzsNZjz9tf?start=4h9m28s)
