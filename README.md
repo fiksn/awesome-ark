@@ -33,6 +33,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [pippellia's Video Ark Explained - Bitcoin Layer 2 Protocol](https://rumble.com/v3nf9vd-ark-explained-bitcoin-layer-2-protocol.html)
 * [Bitcoin Ljubljana September 2023 Meetup Notes - Ark presentation](https://www.bitcoin-ljubljana.si/meetup-notes/202309.html) [[PDF]](https://github.com/bitcoin-ljubljana/meetup/blob/main/presentations/Ark.pdf)
 * [My silly ARK explaination with analogies](./explained.md)
+* [Introducing Ark V2](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b) - blog post
 
 ## Twitter threads
 
