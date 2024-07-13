@@ -3,7 +3,7 @@ A curated list of ARK resources
 
 ## What is it
 
-ARK is a new bitcoin layer2 protocol that
+ARK is a second-layer solution designed to scale Bitcoin transactions. It uses a shared UTXO model for off-chain payments through an intermediary server that cannot access your funds.
 
 To avoid confusion: "token" used here is BTC not an altcoin with the name [ARK](https://ark.io). If you are looking for the list of resources for that one it is available in a different [repo](https://github.com/Guppster/awesome-ark) and beside the common name the two things are totally unrelated.
 
