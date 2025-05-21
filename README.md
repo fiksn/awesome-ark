@@ -37,6 +37,7 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [Bitcoin Startup All-In On New Layer 2 Scaling Protocol](https://bitcoinmagazine.com/business/bitcoin-startup-allin-new-layer2)
 * [Understanding Ark's liquidity requirments](https://arkdev.info/blog/liquidity-requirements)
 * [Reducing Ark Interactivity Without Soft Fork](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454?permalink_comment_id=4633382)
+* [Neha Narula's Ark Explainer](https://nehanarula.org/2025/05/20/ark.html)
 
 ## Twitter threads
 
