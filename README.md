@@ -53,6 +53,22 @@ directly off-chain (and off-channel). ARK service providers (ASPs) providing liq
 * [The ark-hashed podcast, episode 16](https://youtu.be/p3TzBci2CyI)
 * [Updates on Ark development - one year later](https://stephanlivera.com/episode/584/)
 
+## Real life implementations
+
+* [Arkade](https://arkadeos.com) ([arkd](https://github.com/arkade-os/arkd)) from [Ark Labs](https://arklabs.xyz) written in Go
+* [Bark](https://gitlab.com/ark-bitcoin/bark) from [Second](https://second.tech) (Rust)
+
+They both offer SDKs to integrate into any wallet.
+
+Additionally specific for Arkade ecosystem are:
+* PWA Wallet [ArkadeMoney](https://arkade.money/)
+* Integrations via [Breez](https://breez.technology), [BTCPay Server](https://btcpayserver.org), [Boltz.exchange](https://boltz.exchange) usually via
+atomic swaps
+
+For Bark ecosystem:
+* [Arke](https://github.com/GBKS/arke) - currently iOS only
+* [NoahWallet](https://alpha.noahwallet.io)
+
 ## Related
 
 * [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub Paper](https://eprint.iacr.org/2016/575)
